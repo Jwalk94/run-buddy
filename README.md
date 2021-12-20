@@ -12,3 +12,5 @@ https://jwalk94.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jwalk94
+
+### ©️2019 Run Buddy, Inc 
